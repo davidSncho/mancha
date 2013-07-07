@@ -1,0 +1,17 @@
+
+{"friendlyVersion": "dev_0.0",
+ "versionDefName": "RSRC_V0",
+ "media": [
+    {
+        "type": "png",
+        "defName": "MAIN_IMAGE",
+        "file": "images/main.png"
+    },
+    {
+        "type": "png",
+        "defName": "SUN_IMAGE",
+        "file": "images/sun.png"
+    }
+
+	  ]
+}
